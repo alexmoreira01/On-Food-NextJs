@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* Variaveis globais */
+:root {
+    --background: #F5F5F5;
+    --primary: #503E9D;
+    --text-color-primary: #182135;
+    --text-color-secondary: #3F3F3F;
+}
+
+/* Aplicar a variavel no projeto --  usa como função p var()*/
+
+body{
+    background-color: var(--background);
+}

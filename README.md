@@ -1,8 +1,9 @@
-## Projeto feito a partir das 3 aulas da Imersão FrontExpert
+## Projeto feito a partir das 3 aulas da Imersão FrontExpert - DanielCastro
 ## Utilizando FrameWork Next e outras bibliotecas
 
 
 Canal Youtube: https://www.youtube.com/c/odanieldcs.
+
 GitHub: https://github.com/odanieldcs/frontexpert-imersao01 .
 
 

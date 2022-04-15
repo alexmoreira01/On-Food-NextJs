@@ -1,0 +1,6 @@
+.footer{
+    /* tex-lg => 18px */
+    @apply text-[#909090] text-lg font-semibold text-center;
+    /* 12 == 46px e 4 == 16px   max-w-7-xl == 1200px*/ 
+    @apply px-12 py-12 mx-auto max-w-7xl;
+}

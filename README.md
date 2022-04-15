@@ -1,11 +1,12 @@
-## Projeto feito a partir das 3 aulas da Imersão FrontExpert -- Utilizando FrameWork Next e outras bibliotecas
+## Projeto feito a partir das 3 aulas da Imersão FrontExpert
+## Utilizando FrameWork Next e outras bibliotecas
 
 
-Canal Youtube: https://www.youtube.com/c/odanieldcs
-GitHub: https://github.com/odanieldcs/frontexpert-imersao01 
+Canal Youtube: https://www.youtube.com/c/odanieldcs.
+GitHub: https://github.com/odanieldcs/frontexpert-imersao01 .
 
 
-## Readme yarn --
+## Readme yarn -- next =>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

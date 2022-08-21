@@ -6,6 +6,11 @@ Canal Youtube: https://www.youtube.com/c/odanieldcs.
 
 GitHub: https://github.com/odanieldcs/frontexpert-imersao01 .
 
+![image](https://user-images.githubusercontent.com/77466610/185810898-641412e0-63c7-46de-af75-ccafe199192a.png)
+
+![image](https://user-images.githubusercontent.com/77466610/185810915-2dcfdc12-37d2-41a3-90c2-f5489f5b275a.png)
+
+
 
 ## Readme yarn -- next =>
 
